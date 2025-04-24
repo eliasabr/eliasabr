@@ -1,4 +1,4 @@
-Hi 👋 My name is Elias Abou Rached
+
 ==================================
 
 Networking, Cybersecurity, OS, Web
