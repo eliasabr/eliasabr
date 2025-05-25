@@ -4,7 +4,9 @@
 Networking, Cybersecurity, OS, Web
 ----------------------------------
 
-🔭 I’m currently working on implementing AI with IoT, experimenting with radio waves, and diving deep into cybersecurity. I'm also learning about wireless protocols, using Metasploit, and developing my white-hat hacking skills. 👯 I’m looking to collaborate on projects to strengthen my skills in cybersecurity and radio technology, and perhaps even build an app for communication using radio signals. 🌱 I’m currently learning about breaching systems, detecting flaws, IoT technologies, and white-hat hacking techniques.
+I’m currently working on implementing AI with IoT, experimenting with radio waves, and diving deep into cybersecurity. I'm also learning about wireless protocols, using Metasploit, and developing my white-hat hacking skills. 
+I’m looking to collaborate on projects to strengthen my skills in cybersecurity and radio technology, and perhaps even build an app for communication using radio signals. 
+I’m currently learning about breaching systems, detecting flaws, IoT technologies, and white-hat hacking techniques.
 
 ### Skills
 
